@@ -14,4 +14,6 @@ function generateBarCharts() {
   list.appendChild(li);
 }
 
+
+
 // Anden løsning skal li indkommenteres i html og css, så der fåes 20 søjler
